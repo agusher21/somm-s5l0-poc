@@ -1,0 +1,4 @@
+@solmate/mixins/ERC4626.sol=lib/solmate/src/tokens/ERC4626.sol
+@solmate/=lib/solmate/src/
+@forge-std/=lib/forge-std/src/
+src/=src/
